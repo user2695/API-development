@@ -22,7 +22,7 @@
 </p>
 
 ## Description
-This is an REST API with full crud functionalities like create, read, update and delete. This project is built with javscript using nodejs for backend and ejs templating engine as a front end technology. Please feel free to use it.
+This is a REST API with full crud functionalities like create, read, update and delete. This project is built with javscript using nodejs for backend and ejs templating engine as a front end technology. Please feel free to use it.
 
 ## Usage
 > If you want to use this project on your machine, clone it and then type the below command: 
